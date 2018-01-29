@@ -6,6 +6,8 @@
 *				from the aliases file
 */
 
+// this file has been modified 
+
 //	ofstream:	Stream class to write on files
 //	ifstream:	Stream class to read from files
 //	fstream:	Stream class to both read and write to/from files
